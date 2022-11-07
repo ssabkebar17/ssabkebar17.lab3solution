@@ -1,0 +1,161 @@
+#goldenImage{
+     margin-top: 0px;
+width: 70px;
+height: 70px;
+padding-top: 5px;
+
+
+
+}
+#azure{
+     width: 120px;
+     height: 30px;
+     padding-top: 5px;
+     border-style: none;
+}
+
+#welcome{
+    margin: -60px;
+background-color: rgb(60, 68, 130);
+
+padding-left:27pc;
+padding-top: 38px;
+padding-bottom: 30px;
+color: white;
+
+font-style: normal;
+
+font-family:Arial, Helvetica, sans-serif;
+letter-spacing: 3px;
+font-size: 25px;
+font-weight: lighter;
+}
+h3{
+font-family: 'arial', Courier, monospace;
+font-style: normal;
+font-weight:unset;
+font-size: 16px;
+
+border-left-style:solid;
+border-width: 1px;
+padding-left: 10px;
+}
+
+
+
+ li{
+
+   padding-left: 10px;
+   display: inline-block;
+   list-style-type: none;
+   position: relative;
+   top: -80px;
+  list-style: none;
+  display: inline;
+  clear: left;
+  
+ 
+ 
+} 
+
+  div.div1{
+    display: inline-block;
+   
+ 
+}  
+
+   
+  
+ ul{
+  position: relative; 
+ left: 40pc;
+ text-decoration: none;
+  
+} 
+
+#compro{
+      position: relative; 
+     top: -30px;
+left: 10px; 
+font-size: 20px;
+
+}
+
+a:link{
+     text-decoration: none;
+    
+}a:visited{
+     color: black;
+}
+h3{
+     font-weight: bold;
+     font-size: 26px;
+}
+p{
+     opacity:0.3 ;
+}
+#but1{
+      font:bold;
+     border-radius: 0%;
+     border-style: none;
+     background-color: black;
+     color: white;
+    width: 120px;
+    height: 30px; 
+}
+div.sect-one{
+     /* display: inline-block;  */
+     
+     width: 50%;
+
+     padding-top: 7vh;
+     padding-left: 5vh;
+ 
+}
+div.sect-two{
+    
+    
+     margin-left: 30pc;
+     margin-top: -300pt;
+     width: 300px;
+     font-weight: bold;
+     font-size: 20px;
+     float:left 
+
+}
+div.sect-two p{
+     opacity: 1;
+     font-weight: 100;
+}
+#but2{
+     background-color: black;
+     color: white;
+    font-weight: bold;
+    border-radius: none;
+   width: 150px;
+   height: 30px;
+   letter-spacing: 2px;
+
+    
+}span{
+     color: blue;
+}
+#html1{
+    height: 30px;
+} 
+footer{
+   
+    background-color: antiquewhite;
+   
+}
+#the{
+     margin-left: 60pc;
+
+
+}
+#ppr{
+     color:green;
+     font-size: large;
+     opacity: 1;
+     margin-left: 20px;
+}
