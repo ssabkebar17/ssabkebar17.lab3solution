@@ -131,7 +131,7 @@ div.sect-two p{
      background-color: black;
      color: white;
     font-weight: bold;
-    border-radius: none;
+    border-radius: 1px;
    width: 150px;
    height: 30px;
    letter-spacing: 2px;
